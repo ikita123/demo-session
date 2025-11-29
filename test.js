@@ -4,3 +4,4 @@ function add(a, b) {
 
 add(2, 3);
 add(3, 5);
+add(3, 9);
